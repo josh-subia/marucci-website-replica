@@ -1,0 +1,25 @@
+gray-header {
+  color: dimgrey;
+  vertical-align: middle;
+}
+
+red-header {
+  color: red;
+  vertical-align: middle;
+}
+
+header-text {
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+}
+
+announcement1 {
+  color: lightgray;
+  text-align: center;
+}
+
+announcement2 {
+  color: lightgray;
+  font-size: small;
+  text-align: center;
+}
